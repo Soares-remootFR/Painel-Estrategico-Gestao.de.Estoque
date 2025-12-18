@@ -12,7 +12,7 @@ Visão consolidada com indicadores de valor em estoque, movimentação e alertas
 
 <img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src= https://github.com/Soares-remootFR/Painel-Estrategico-Gestao.de.Estoque/blob/main/Screenshot%202025-12-17%20223037.png />
 
-<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src=  />
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src= https://github.com/Soares-remootFR/Painel-Estrategico-Gestao.de.Estoque/blob/main/Screenshot%202025-12-17%20223059.png  />
 
 2. Estrutura de Dados e Modelagem
 
