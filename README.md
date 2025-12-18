@@ -10,7 +10,9 @@ O projeto abrange desde a limpeza e relacionamento de dados até a criação de 
 
 Visão consolidada com indicadores de valor em estoque, movimentação e alertas de status.
 
-(Substitua pelo print do painel com os gráficos)
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src=  />
+
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src=  />
 
 2. Estrutura de Dados e Modelagem
 
